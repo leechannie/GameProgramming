@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6e093d123e5024d5d851b50417edb943
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - audioSource: {instanceID: 0}
+  - audioEnd: {fileID: 8300000, guid: 9415c81768cd54330af8024c1dbb4db8, type: 3}
+  - audioMove: {fileID: 8300000, guid: bb18cb78e4b534a59bc19ab1d48202c3, type: 3}
+  - audioSolve: {fileID: 8300000, guid: 4f944b32b77e54fb494c39e03e234570, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
